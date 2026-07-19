@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "2026-07-19",
+  "news": [
+    {
+      "id": "2026-07-souffleur-01",
+      "title": "Bienvenue sur Planning VOA",
+      "author": "Erwin",
+      "date": "2026-07-19",
+      "category": "Newsletter",
+      "excerpt": "L'application dispose maintenant d'un onglet Documents et d'un système d'actualités.",
+      "content": "Bienvenue dans cette nouvelle version de l'app !\n\nTu trouveras désormais un onglet Documents avec les communiqués, les numéros utiles et les fichiers divers. Cette page d'actualités sera mise à jour régulièrement.",
+      "documentUrl": null
+    }
+  ],
+  "communiques": {
+    "CRCSE": [
+      {
+        "id": "crcse-001",
+        "title": "Compte-rendu réunion CRCSE - Juillet 2026",
+        "date": "2026-07-10",
+        "url": "https://raw.githubusercontent.com/TON_PSEUDO/planning-voa-content/main/documents/crcse-juillet-2026.pdf"
+      }
+    ],
+    "CGT": [],
+    "Securite": [
+      {
+        "id": "secu-001",
+        "title": "Rappel consignes de sécurité été",
+        "date": "2026-07-04",
+        "url": "https://raw.githubusercontent.com/TON_PSEUDO/planning-voa-content/main/documents/securite-ete-2026.pdf"
+      }
+    ],
+    "Direction": []
+  },
+  "phoneNumbers": [
+    { "id": "rh", "name": "Ressources Humaines", "number": "01 23 45 67 89", "note": "Lun-Ven 9h-17h" },
+    { "id": "medecine", "name": "Médecine du travail", "number": "01 23 45 67 90", "note": "" },
+    { "id": "urgence", "name": "Sécurité / Urgence interne", "number": "01 23 45 67 91", "note": "24h/24" }
+  ],
+  "imponderables": [
+    {
+      "id": "imp-001",
+      "title": "Planning de formation Q3 2026",
+      "date": "2026-07-15",
+      "description": "Dates et modalités des formations du 3e trimestre.",
+      "url": "https://raw.githubusercontent.com/TON_PSEUDO/planning-voa-content/main/documents/formations-q3-2026.pdf"
+    }
+  ]
+}
