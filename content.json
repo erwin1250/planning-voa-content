@@ -11,6 +11,16 @@
       "content": "Bienvenue dans cette nouvelle version de l'app !\n\nTu trouveras désormais un onglet Documents avec les communiqués, les numéros utiles et les fichiers divers. Cette page d'actualités sera mise à jour régulièrement.",
       "documentUrl": null
     }
+    {
+      "id": "2026-07-souffleur-01",
+      "title": "Ajout de numéro de téléphone",
+      "author": "Erwin",
+      "date": "2026-07-19",
+      "category": "Phone",
+      "excerpt": "Infirmière et Electro.",
+      "content": "2 nouveaux numéros ont été ajoutés !\n\nUniquement des numéros internes.",
+      "documentUrl": null
+    }
   ],
   "communiques": {
     "CRCSE": [
