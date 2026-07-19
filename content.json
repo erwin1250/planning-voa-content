@@ -12,11 +12,11 @@
       "documentUrl": null
     }
     {
-      "id": "2026-07-souffleur-01",
+      "id": "2026-07-souffleur-02",
       "title": "Ajout de numéro de téléphone",
       "author": "Erwin",
       "date": "2026-07-19",
-      "category": "Phone",
+      "category": "Newsletter",
       "excerpt": "Infirmière et Electro.",
       "content": "2 nouveaux numéros ont été ajoutés !\n\nUniquement des numéros internes.",
       "documentUrl": null
@@ -47,7 +47,7 @@
     { "id": "directeur usine", "name": "Fabien Cordier - Directeur", "number": "06 75 24 26 24", "note": "" },
     { "id": "responsable ehs", "name": "Marianne Duffau - Responsable EHS", "number": "06 88 08 64 39", "note": "" },
     { "id": "infirmerie", "name": "Infirmerie", "number": "1075", "internal": true },
-{ "id": "electro", "name": "Électro", "number": "1025", "internal": true }
+    { "id": "electro", "name": "Électro", "number": "1025", "note": "Posté", "internal": true }
     { "id": "medecine", "name": "Médecine du travail", "number": "05 63 38 88 77", "note": "" },
     { "id": "pompier", "name": "Pompier", "number": "18", "note": "24h/24" },
     { "id": "police", "name": "Police", "number": "17", "note": "24h/24" },
