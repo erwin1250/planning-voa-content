@@ -49,7 +49,7 @@
         "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/Verallia_AGM_2026_presentation.pdf"
       }
     ]
-  },
+  }
   "phoneNumbers": [
     { "id": "directeur-usine", "name": "Fabien Cordier - Directeur", "number": "06 75 24 26 24", "note": "" },
     { "id": "responsable-ehs", "name": "Marianne Duffau - Responsable EHS", "number": "06 88 08 64 39", "note": "" },
