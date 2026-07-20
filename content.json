@@ -1,6 +1,5 @@
 {
-  "lastUpdated": "2026-07-20"
-}
+  "lastUpdated": "2026-07-20",
   "news": [
     {
       "id": "2026-07-souffleur-01",
@@ -11,7 +10,7 @@
       "excerpt": "L'application dispose maintenant d'un onglet Documents et d'un système d'actualités.",
       "content": "Bienvenue dans cette nouvelle version de l'app !\n\nTu trouveras désormais un onglet Documents avec les communiqués, les numéros utiles et les fichiers divers. Cette page d'actualités sera mise à jour régulièrement.",
       "documentUrl": null
-    }
+    },
     {
       "id": "2026-07-souffleur-02",
       "title": "Ajout de numéro de téléphone",
@@ -45,10 +44,10 @@
     "Direction": []
   },
   "phoneNumbers": [
-    { "id": "directeur usine", "name": "Fabien Cordier - Directeur", "number": "06 75 24 26 24", "note": "" },
-    { "id": "responsable ehs", "name": "Marianne Duffau - Responsable EHS", "number": "06 88 08 64 39", "note": "" },
+    { "id": "directeur-usine", "name": "Fabien Cordier - Directeur", "number": "06 75 24 26 24", "note": "" },
+    { "id": "responsable-ehs", "name": "Marianne Duffau - Responsable EHS", "number": "06 88 08 64 39", "note": "" },
     { "id": "infirmerie", "name": "Infirmerie", "number": "1075", "internal": true },
-    { "id": "electro", "name": "Électro", "number": "1025", "note": "Posté", "internal": true }
+    { "id": "electro", "name": "Électro", "number": "1025", "note": "Posté", "internal": true },
     { "id": "medecine", "name": "Médecine du travail", "number": "05 63 38 88 77", "note": "" },
     { "id": "pompier", "name": "Pompier", "number": "18", "note": "24h/24" },
     { "id": "police", "name": "Police", "number": "17", "note": "24h/24" },
@@ -60,7 +59,7 @@
       "title": "Planning de formation Q3 2026",
       "date": "2026-07-15",
       "description": "Dates et modalités des formations du 3e trimestre.",
-      "url": "https://raw.githubusercontent.com/TON_PSEUDO/planning-voa-content/main/documents/formations-q3-2026.pdf"
+      "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/formations-q3-2026.pdf"
     }
   ]
 }
