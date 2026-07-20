@@ -41,8 +41,7 @@
         "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/CRCSE-2026-06.pdf"
       }
     ],
-    "Direction": [],
-    "Articles externes": [
+    "Direction": [
       {
         "id": "agm-2026",
         "title": "Assemblée Générale Annuelle 2026",
