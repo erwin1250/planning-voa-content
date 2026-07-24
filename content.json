@@ -10,26 +10,6 @@
       "excerpt": "L'application dispose maintenant d'un onglet Documents et d'un système d'actualités.",
       "content": "Bienvenue dans cette nouvelle version de l'app !\n\nTu trouveras désormais un onglet Documents avec les communiqués, les numéros utiles et les fichiers divers. Cette page d'actualités sera mise à jour régulièrement.",
       "documentUrl": null
-    },
-    {
-      "id": "2026-07-souffleur-02",
-      "title": "Ajout de numéro de téléphone",
-      "author": "Erwin",
-      "date": "2026-07-19",
-      "category": "Hotline",
-      "excerpt": "Infirmière et Electro.",
-      "content": "2 nouveaux numéros ont été ajoutés !\n\nUniquement des numéros internes. Pas plus !",
-      "documentUrl": null
-    },
-    {
-      "id": "news-1784555649076-ko6k",
-      "title": "Test 01",
-      "author": "Erwin",
-      "date": "2026-07-20",
-      "category": "Newsletter",
-      "excerpt": "Test 01",
-      "content": "Test 01",
-      "documentUrl": null
     }
   ],
   "communiques": {
