@@ -10,6 +10,16 @@
       "excerpt": "L'application dispose maintenant d'un onglet Documents et d'un système d'actualités.",
       "content": "Bienvenue dans cette nouvelle version de l'app !\n\nTu trouveras désormais un onglet Documents avec les communiqués, les numéros utiles et les fichiers divers. Cette page d'actualités sera mise à jour régulièrement.",
       "documentUrl": null
+    },
+    {
+      "id": "news-1784909894899-71cs",
+      "title": "Test d'actualité le 24/07/2026",
+      "author": "Erwin",
+      "date": "2026-07-24",
+      "category": "Newsletter",
+      "excerpt": "Essai",
+      "content": "Actualisation sur Tablette",
+      "documentUrl": null
     }
   ],
   "communiques": {
