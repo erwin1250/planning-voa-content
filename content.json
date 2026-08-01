@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24",
+  "lastUpdated": "2026-08-01",
   "news": [
     {
       "id": "2026-07-souffleur-01",
@@ -20,6 +20,16 @@
       "excerpt": "Nouveaux fichiers",
       "content": "Rajout de 2 fichiers dans les impondérables:\n. Les 4 règles Cardinales\n. Mémento activités sociales",
       "documentUrl": null
+    },
+    {
+      "id": "news-1785584013485-lwqo",
+      "title": "Infos CSEE",
+      "author": "Erwin",
+      "date": "2026-07-30",
+      "category": "Info",
+      "excerpt": "Programme de voyages et séjours 2027",
+      "content": "Laponie\nMonténégro\nVoyage enfants: Paris\nCroisière sur les Fjords (retraités)",
+      "documentUrl": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/Infos%20du%20CSEE%20-%2030.07.2026.pdf"
     }
   ],
   "communiques": {
