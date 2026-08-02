@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01",
+  "lastUpdated": "2026-08-02",
   "news": [
     {
       "id": "2026-07-souffleur-01",
@@ -73,13 +73,15 @@
       "id": "directeur-usine",
       "name": "Fabien Cordier - Directeur",
       "number": "06 75 24 26 24",
-      "note": ""
+      "note": "",
+      "department": "Direction"
     },
     {
       "id": "responsable-ehs",
       "name": "Marianne Duffau - Responsable EHS",
       "number": "06 88 08 64 39",
-      "note": ""
+      "note": "",
+      "department": "Direction"
     },
     {
       "id": "infirmerie",
