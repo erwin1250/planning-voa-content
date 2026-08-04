@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03",
+  "lastUpdated": "2026-08-04",
   "news": [
     {
       "id": "2026-07-souffleur-01",
@@ -125,6 +125,20 @@
       "name": "Standard",
       "number": "0563781010",
       "note": "Crochet Sébastien"
+    },
+    {
+      "id": "tel-1785834889894-9vs8",
+      "name": "Chef bout chaud",
+      "number": "0563781018",
+      "note": "",
+      "department": "Production"
+    },
+    {
+      "id": "tel-1785834927359-8p2r",
+      "name": "Chef bout froid",
+      "number": "0563781016",
+      "note": "",
+      "department": "Production"
     }
   ],
   "imponderables": [
