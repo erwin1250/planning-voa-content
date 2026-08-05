@@ -84,7 +84,14 @@
       }
     ],
     "Sante": [],
-    "CSEE": []
+    "CSEE": [
+      {
+        "id": "com-1785942615042-nxgk",
+        "title": "Monténégro 2027",
+        "date": "2026-08-05",
+        "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/Affiche_information_voyage_MONTENEGRO_page-0001.jpg"
+      }
+    ]
   },
   "phoneNumbers": [
     {
