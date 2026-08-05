@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04",
+  "lastUpdated": "2026-08-05",
   "news": [
     {
       "id": "2026-07-souffleur-01",
@@ -39,6 +39,12 @@
         "title": "Compte-rendu réunion CRCSE Juin 2026",
         "date": "2026-06-26",
         "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/CRCSE-2026-06.pdf"
+      },
+      {
+        "id": "com-1785932959779-cv60",
+        "title": "Aide licence sportive 2026-2027",
+        "date": "2026-08-05",
+        "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/Affiche_aide_licence_sportive_2026-2027__1_.pdf"
       }
     ],
     "CGT": [],
@@ -66,7 +72,9 @@
         "protected": true,
         "content": "L'année 2025 a été marquée par un fort ralentissement économique pour Verallia, avec une baisse significative de la rentabilité (EBITDA -18%, marge -360 pb) principalement due à un spread prix-coûts fortement négatif et à des effets de change défavorables. Cependant, le Groupe a démontré sa résilience opérationnelle : volumes en croissance, free cash-flow doublé, maîtrise des investissements, et avancées RSE notables (trajectoire SBTI validée, four hybride). Le contexte actionnarial reste dominé par l'OPA de BWGI, tandis que les premiers résultats 2026 suggèrent un amorçage de la reprise de la rentabilité."
       }
-    ]
+    ],
+    "Sante": [],
+    "CSEE": []
   },
   "phoneNumbers": [
     {
