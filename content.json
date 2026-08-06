@@ -3,13 +3,13 @@
   "news": [
     {
       "id": "2026-07-souffleur-01",
-      "title": "Bienvenue sur VOA APP  v0.1.0",
+      "title": "Bienvenue sur VOA APP  v0.1.1",
       "author": "Erwin",
-      "date": "2026-08-03",
+      "date": "2026-08-06",
       "category": "Newsletter",
       "excerpt": "Bienvenue sur l'application VOA !",
       "content": "Une application pensée pour la VOA !\n\nCe qu'elle propose :\n\n🏭 Ma Brigade : visualisez en un coup d'œil votre poste actuel\n\n📅 Planning : consultez vos rotations et celles des autres brigades en vue Jour, Semaine ou Mois, avec vos congés et événements personnels\n\n📋 Documents : accédez aux communiqués (CSEE, CGT, Sécurité, Direction, Santé), aux numéros utiles et aux infos pratiques\n\n👤 Profil personnalisable : gérez vos congés, votre apparence (thème, couleurs) et vos données\n\n🔔 Actualités : restez informé des dernières news du site (si il y en a)\n\n🗓️ Synchronisation Google Agenda possible pour croiser votre planning avec votre vie perso\n\nBonne découverte à tous !",
-      "documentUrl": null
+      "documentUrl": "https://noa.it.tabdigital.cloud/s/MwweFq85r7k6pzD"
     },
     {
       "id": "news-1784909894899-71cs",
