@@ -87,7 +87,16 @@
         "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/CRCSE-2026-06.pdf"
       }
     ],
-    "CGT": [],
+    "CGT": [
+      {
+        "id": "com-1790322159861-cj34",
+        "title": "Trac grève nationale du 29/09/2026",
+        "date": "2026-09-25",
+        "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/Tract%202026%2009%2029%20greve%20nationale.pdf",
+        "content": "",
+        "protected": false
+      }
+    ],
     "Articles externes": [],
     "Securite": [
       {
