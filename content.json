@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12",
+  "lastUpdated": "2026-09-25",
   "news": [
     {
       "id": "news-1787666536112-svur",
@@ -64,6 +64,14 @@
   ],
   "communiques": {
     "CRCSE": [
+      {
+        "id": "com-1790321944089-mse0",
+        "title": "Compte-rendu réunion CRCSE Septembre 2026",
+        "date": "2026-09-25",
+        "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/CRCSE%202026%2009.pdf",
+        "content": "",
+        "protected": false
+      },
       {
         "id": "com-1788254870560-07r7",
         "title": "Compte-rendu réunion CRCSE Août 2026",
