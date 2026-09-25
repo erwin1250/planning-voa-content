@@ -89,6 +89,14 @@
     ],
     "CGT": [
       {
+        "id": "com-1790322266062-dtdd",
+        "title": "CSEC du 26/09/2026",
+        "date": "2026-09-25",
+        "url": "https://raw.githubusercontent.com/erwin1250/planning-voa-content/main/documents/Tract%20CSEC%2023%20Septembre%202026.pdf",
+        "content": "",
+        "protected": false
+      },
+      {
         "id": "com-1790322159861-cj34",
         "title": "Trac grève nationale du 29/09/2026",
         "date": "2026-09-25",
